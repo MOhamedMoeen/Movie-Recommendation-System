@@ -2,9 +2,10 @@
 
 A full-stack web application that provides personalized movie recommendations using content-based filtering and machine learning. Built with Flask, SQLAlchemy, and Scikit-learn.
 
+Link of the project : https://movie-rec-system-2025-gtezhdhhbna4b8bu.switzerlandnorth-01.azurewebsites.net/
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
